@@ -1,3 +1,7 @@
+// 1. git add . 
+// 2. git commit -m "some messahge "
+// 3. git push
+
 const int Size = 100;
 char ReadData[Size];
 char name;
